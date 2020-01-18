@@ -1,6 +1,6 @@
 {
   "name": "@mussia/monorepo-build-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mono repo build tools for tests builds and development env",
   "main": "index.js",
   "sideEffects": false,
